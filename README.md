@@ -1,6 +1,8 @@
 # EnvironHealth 🌍💨
 
-![EnvironHealth Logo](https://via.placeholder.com/600x150.png?text=EnvironHealth+Logo)
+<div align="center">
+  <img src="EnvironHealth_logo.png" alt="EnvironHealth Logo" width="600"/>
+</div>
 
 ### ¡La calidad del aire en tus manos!
 
