@@ -8,6 +8,13 @@
 
 **EnvironHealth** es un proyecto pionero que utiliza la tecnología de crowdsensing móvil para ofrecer a los ciudadanos información detallada y en tiempo real sobre la **calidad del aire** que respiran, con un enfoque especial en áreas con baja cobertura de estaciones de monitoreo. Con tu ayuda, ¡podemos mejorar la salud ambiental y mapear la contaminación en alta resolución! 
 
+### Repositorios relacionados:
+
+- [**Proyecto3A_Arduino**](https://github.com/Javitax47/Proyecto3A_Arduino)
+- [**Proyecto3A_Android**](https://github.com/Javitax47/Proyecto3A_Android)
+- [**Proyecto3A_Server_Backend**](https://github.com/Javitax47/Proyecto3A_Server_Backend)
+- [**Proyecto3A_Server_Frontend**](https://github.com/Javitax47/Proyecto3A_Server_Frontend)
+
 ---
 
 ## 🚀 Objetivos del Proyecto
