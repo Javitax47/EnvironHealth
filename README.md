@@ -91,10 +91,4 @@ Este proyecto está licenciado bajo la **Licencia MIT**. Consulta el archivo [LI
 
 ---
 
-## 💡 Contacto
-
-Para más información, sugerencias o preguntas, no dudes en contactarnos:
-- **Email**: environhealth@upv.es
-- **Desarrolladores principales**: [Javier Camarena Cuartero](https://www.upv.es/) (3º GTI, UPV)
-
 ¡Gracias por tu interés en **EnvironHealth**! Con tu ayuda, podemos hacer del aire que respiramos algo más limpio y saludable para todos. 💚🌱
